@@ -1,0 +1,14 @@
+{
+  "name": "webcomp-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth-element.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
